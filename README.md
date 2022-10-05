@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola! Soy Ray 👋
+Desarrolladora hace casi más de 6 años :woman_technologist: 
+Trabajo con multiples tecnologías fullstack :octocat:
 
 <!--
 **raysa-dev/raysa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
